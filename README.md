@@ -1,4 +1,4 @@
-# Janestreet_Market_Prediction
+# PMSJ
 
 Zhixue Chen, Yihang Lu
 
